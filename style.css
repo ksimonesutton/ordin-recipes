@@ -1,0 +1,54 @@
+body,html{
+     /* The image used */
+  background-image: url(../ordin-recipes/images/background.jpg);
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+/* This is for the heading Recipes to be able to adjust the color,size and position*/
+div.recipes{
+    color: rgb(250, 248, 250);
+    font-style: italic;
+    font-family: cursive;
+    text-align: center;
+    font-size: 10mm;
+    
+
+}
+ /* This is for the three ingredient buttons 
+    covering the color,background and size of the block buttons */
+button.doughnuts{
+    text-align: center;
+    font-weight: bolder;
+    background-size: 10mm;
+    color: rgb(10, 0, 2);
+    font-family:cursive;
+    font-size: 5mm;
+    block-size: 10mm; 
+}
+button.biscuits{
+    text-align: center;
+    font-weight: bolder;
+    background-size: 10mm;
+    color: rgb(10, 0, 2);
+    font-family:cursive;
+    font-size: 5mm;
+    block-size: 10mm; 
+    
+}
+button.chocolate{
+    text-align: center;
+    font-weight: bolder;
+    background-size: 10mm;
+    color: rgb(10, 0, 2);
+    font-family:cursive;
+    font-size: 5mm;
+    block-size: 10mm; 
+}
