@@ -30,8 +30,8 @@ button.doughnuts{
     background-size: 10mm;
     color: rgb(10, 0, 2);
     font-family:cursive;
-    font-size: 5mm;
-    block-size: 10mm; 
+    font-size: 10mm;
+    block-size: 15mm; 
 }
 button.biscuits{
     text-align: center;
@@ -39,8 +39,8 @@ button.biscuits{
     background-size: 10mm;
     color: rgb(10, 0, 2);
     font-family:cursive;
-    font-size: 5mm;
-    block-size: 10mm; 
+    font-size: 10mm;
+    block-size: 15mm; 
     
 }
 button.chocolate{
@@ -49,6 +49,6 @@ button.chocolate{
     background-size: 10mm;
     color: rgb(10, 0, 2);
     font-family:cursive;
-    font-size: 5mm;
-    block-size: 10mm; 
+    font-size: 10mm;
+    block-size: 15mm; 
 }
